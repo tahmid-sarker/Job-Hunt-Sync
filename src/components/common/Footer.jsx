@@ -9,11 +9,11 @@ const Footer = () => {
 
                 {/* Brand Info */}
                 <div className='flex flex-col justify-center items-start gap-2'>
-                {/* Logo */}
-                <Link to="/" className="text-lg md:text-2xl font-bold text-primary flex items-center whitespace-nowrap">
-                    <img src={logo} alt="Job Hunt Sync Logo" className="w-8 h-8" />
-                    Job Hunt Sync
-                </Link>
+                    {/* Logo */}
+                    <Link to="/" className="text-lg md:text-2xl font-bold text-primary flex items-center whitespace-nowrap">
+                        <img src={logo} alt="Job Hunt Sync Logo" className="w-8 h-8" />
+                        Job Hunt Sync
+                    </Link>
                     <div>
                         <p className='text-neutral font-medium'>Sync Your Career with Opportunity</p>
                         <p className='text-neutral font-medium'>Email Us</p>

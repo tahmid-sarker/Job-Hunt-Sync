@@ -81,7 +81,7 @@ const CompanyDetails = () => {
                                 {bookmarkActive.includes(job.id) ? <BsBookmarkCheckFill className='text-primary' /> : <BsBookmarkCheck />}
                             </button>
                             <button onClick={() => setSelectedJob(job)} className='btn btn-primary hover:btn-secondary text-white cursor-pointer'>
-                                Show Details
+                                Details
                             </button>
                         </div>
                     </div>
