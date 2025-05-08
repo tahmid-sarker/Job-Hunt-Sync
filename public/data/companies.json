@@ -1,0 +1,738 @@
+[
+    {
+        "id": "1",
+        "name": "InnoTech Labs",
+        "logo": "https://i.ibb.co/N2nn3fWT/Inno-Tech-Labs.png",
+        "location": "San Jose, CA",
+        "website": "https://innotechlabs.com.my",
+        "industry": "Technology",
+        "jobs": [
+            {
+                "id": "job-011",
+                "title": "Marketing Specialist",
+                "bannerImage": "https://i.ibb.co/93WXB2Ry/Inno-Tech-Labs-Banner.jpg",
+                "location": "Austin, TX",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Part-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-012",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/93WXB2Ry/Inno-Tech-Labs-Banner.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Full-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            },
+            {
+                "id": "job-013",
+                "title": "Marketing Specialist",
+                "bannerImage": "https://i.ibb.co/93WXB2Ry/Inno-Tech-Labs-Banner.jpg",
+                "location": "New York, NY",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Contract",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-014",
+                "title": "Software Engineer",
+                "bannerImage": "https://i.ibb.co/93WXB2Ry/Inno-Tech-Labs-Banner.jpg",
+                "location": "Austin, TX",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Part-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-015",
+                "title": "AI Researcher",
+                "bannerImage": "https://i.ibb.co/93WXB2Ry/Inno-Tech-Labs-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Contract",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Cloudify Networks",
+        "logo": "https://i.ibb.co/ksqn2ZWY/Cloudify-Networks.jpg",
+        "location": "Denver, CO",
+        "website": "https://cloudify.network",
+        "industry": "Networking",
+        "jobs": [
+            {
+                "id": "job-021",
+                "title": "QA Engineer",
+                "bannerImage": "https://i.ibb.co/pvq0vDTp/Cloudify-Networks-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Part-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-022",
+                "title": "Marketing Specialist",
+                "bannerImage": "https://i.ibb.co/pvq0vDTp/Cloudify-Networks-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Full-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-023",
+                "title": "UX Designer",
+                "bannerImage": "https://i.ibb.co/pvq0vDTp/Cloudify-Networks-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Full-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-024",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/pvq0vDTp/Cloudify-Networks-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-025",
+                "title": "UX Designer",
+                "bannerImage": "https://i.ibb.co/pvq0vDTp/Cloudify-Networks-Banner.jpg",
+                "location": "Remote",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Full-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "GreenPulse",
+        "logo": "https://i.ibb.co/chbDZ76j/Green-Pulse.jpg",
+        "location": "San Jose, CA",
+        "website": "https://www.greenpulse.com",
+        "industry": "Energy",
+        "jobs": [
+            {
+                "id": "job-031",
+                "title": "AI Researcher",
+                "bannerImage": "https://i.ibb.co/23YzPVN8/Green-Pulse.jpg",
+                "location": "New York, NY",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Part-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            },
+            {
+                "id": "job-032",
+                "title": "Software Engineer",
+                "bannerImage": "https://i.ibb.co/23YzPVN8/Green-Pulse.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Full-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-033",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/23YzPVN8/Green-Pulse.jpg",
+                "location": "Remote",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Full-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-034",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/23YzPVN8/Green-Pulse.jpg",
+                "location": "Austin, TX",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Full-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "DataNest",
+        "logo": "https://i.ibb.co/r2ZFXjLP/DataNest.jpg",
+        "location": "San Jose, CA",
+        "website": "https://www.datanest.earth",
+        "industry": "Data Science",
+        "jobs": [
+            {
+                "id": "job-041",
+                "title": "Marketing Specialist",
+                "bannerImage": "https://i.ibb.co/gbg4hVfS/DataNest.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Part-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-042",
+                "title": "Cloud Architect",
+                "bannerImage": "https://i.ibb.co/gbg4hVfS/DataNest.jpg",
+                "location": "Austin, TX",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-043",
+                "title": "Software Engineer",
+                "bannerImage": "https://i.ibb.co/gbg4hVfS/DataNest.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Full-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-044",
+                "title": "Cloud Architect",
+                "bannerImage": "https://i.ibb.co/gbg4hVfS/DataNest.jpg",
+                "location": "New York, NY",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Full-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "FinSecure",
+        "logo": "https://i.ibb.co/svxRppKH/Fin-Secure.jpg",
+        "location": "Denver, CO",
+        "website": "https://www.finsecureonline.com",
+        "industry": "Finance",
+        "jobs": [
+            {
+                "id": "job-051",
+                "title": "QA Engineer",
+                "bannerImage": "https://i.ibb.co/PBRFkxP/Fin-Secure-Banner.jpg",
+                "location": "Austin, TX",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            },
+            {
+                "id": "job-052",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/PBRFkxP/Fin-Secure-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Part-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-053",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/PBRFkxP/Fin-Secure-Banner.jpg",
+                "location": "New York, NY",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            },
+            {
+                "id": "job-054",
+                "title": "Marketing Specialist",
+                "bannerImage": "https://i.ibb.co/PBRFkxP/Fin-Secure-Banner.jpg",
+                "location": "Austin, TX",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Full-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "EduNova",
+        "logo": "https://i.ibb.co/P2VbRC1/EduNova.jpg",
+        "location": "Boston, MA",
+        "website": "https://www.edunova.org",
+        "industry": "Education",
+        "jobs": [
+            {
+                "id": "job-061",
+                "title": "Software Engineer",
+                "bannerImage": "https://i.ibb.co/6JsY2Xd4/Edu-Nova-Banner.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Part-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-062",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/6JsY2Xd4/Edu-Nova-Banner.jpg",
+                "location": "New York, NY",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-063",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/6JsY2Xd4/Edu-Nova-Banner.jpg",
+                "location": "New York, NY",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Contract",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-064",
+                "title": "QA Engineer",
+                "bannerImage": "https://i.ibb.co/6JsY2Xd4/Edu-Nova-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "BioMed AI",
+        "logo": "https://i.ibb.co/xKpGTS6s/Bio-Med-AI.jpg",
+        "location": "Seattle, WA",
+        "website": "https://www.biomedai.com",
+        "industry": "Healthcare",
+        "jobs": [
+            {
+                "id": "job-071",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/vxRtVgr5/Bio-Med-AI-Banner.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Part-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            },
+            {
+                "id": "job-072",
+                "title": "Cloud Architect",
+                "bannerImage": "https://i.ibb.co/vxRtVgr5/Bio-Med-AI-Banner.jpg",
+                "location": "Remote",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Contract",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-073",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/vxRtVgr5/Bio-Med-AI-Banner.jpg",
+                "location": "Remote",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Part-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-074",
+                "title": "Software Engineer",
+                "bannerImage": "https://i.ibb.co/vxRtVgr5/Bio-Med-AI-Banner.jpg",
+                "location": "Remote",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Full-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-075",
+                "title": "UX Designer",
+                "bannerImage": "https://i.ibb.co/vxRtVgr5/Bio-Med-AI-Banner.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Part-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "RetailNext",
+        "logo": "https://i.ibb.co/Y7XQmWJk/Retail-Next.jpg",
+        "location": "Chicago, IL",
+        "website": "https://retailnext.net",
+        "industry": "Retail",
+        "jobs": [
+            {
+                "id": "job-081",
+                "title": "Software Engineer",
+                "bannerImage": "https://i.ibb.co/6RBbC5yh/Retail-Next.jpg",
+                "location": "Remote",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Full-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            },
+            {
+                "id": "job-082",
+                "title": "Cloud Architect",
+                "bannerImage": "https://i.ibb.co/6RBbC5yh/Retail-Next.jpg",
+                "location": "New York, NY",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Full-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-083",
+                "title": "UX Designer",
+                "bannerImage": "https://i.ibb.co/6RBbC5yh/Retail-Next.jpg",
+                "location": "New York, NY",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Contract",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Agile methodologies",
+                    "Product lifecycle understanding",
+                    "Communication skills"
+                ]
+            },
+            {
+                "id": "job-084",
+                "title": "Cloud Architect",
+                "bannerImage": "https://i.ibb.co/6RBbC5yh/Retail-Next.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$60,000 - $80,000",
+                "jobType": "Contract",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            },
+            {
+                "id": "job-085",
+                "title": "Cloud Architect",
+                "bannerImage": "https://i.ibb.co/6RBbC5yh/Retail-Next.jpg",
+                "location": "San Francisco, CA",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Part-time",
+                "description": "In this role, you will serve as the central point of contact across engineering, design, and marketing teams to coordinate the development of innovative digital products. You will define product vision and strategy, create detailed roadmaps, and ensure alignment with business goals. Your leadership will drive ideation, prioritization, and execution of features that deliver impactful customer experiences. You will also continuously gather feedback and iterate on solutions to stay ahead in the market.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "QuantumSoft",
+        "logo": "https://i.ibb.co/SC86C9r/Quantum-Soft.jpg",
+        "location": "Boston, MA",
+        "website": "https://www.quantumsoft.pro",
+        "industry": "Software",
+        "jobs": [
+            {
+                "id": "job-091",
+                "title": "UX Designer",
+                "bannerImage": "https://i.ibb.co/PvDgVyzd/Quantum-Soft.jpg",
+                "location": "Remote",
+                "salary": "$100,000 - $130,000",
+                "jobType": "Contract",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-092",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/PvDgVyzd/Quantum-Soft.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Full-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "DriveAI",
+        "logo": "https://i.ibb.co/NdyghSbk/DriveAI.jpg",
+        "location": "Chicago, IL",
+        "website": "https://thedrive.ai",
+        "industry": "Artificial Intelligence",
+        "jobs": [
+            {
+                "id": "job-101",
+                "title": "Product Manager",
+                "bannerImage": "https://i.ibb.co/WWn8sPGG/DriveAI.jpg",
+                "location": "Remote",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Part-time",
+                "description": "As part of our analytics team, you will be responsible for gathering, processing, and interpreting large datasets to support business objectives. You will transform raw data into actionable insights through the use of statistical tools and modern data platforms. Your analysis will directly influence strategic planning, product development, and customer engagement initiatives. A critical thinker and storyteller, you\u2019ll present complex results in clear, concise formats tailored for stakeholders.",
+                "requirements": [
+                    "Data analysis and visualization",
+                    "Strong problem-solving",
+                    "Machine learning knowledge"
+                ]
+            },
+            {
+                "id": "job-102",
+                "title": "Data Scientist",
+                "bannerImage": "https://i.ibb.co/WWn8sPGG/DriveAI.jpg",
+                "location": "Toronto, Canada",
+                "salary": "$80,000 - $100,000",
+                "jobType": "Full-time",
+                "description": "You will contribute to high-impact projects utilizing the latest advancements in cloud computing, machine learning, and software architecture. Your role involves hands-on development, rapid prototyping, and collaborating with teams to integrate scalable solutions into existing infrastructure. This position offers an opportunity to work at the forefront of innovation and transform theoretical concepts into real-world applications that enhance user experiences and solve critical business challenges.",
+                "requirements": [
+                    "Proficient in Python and JavaScript",
+                    "Experience with RESTful APIs",
+                    "Team collaboration skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "NeuroNetics",
+        "logo": "https://i.ibb.co/mVnx8KjK/Neuro-Netics.jpg",
+        "location": "Atlanta, GA",
+        "website": "https://neurostar.com/neuronetics",
+        "industry": "Neuroscience & AI",
+        "jobs": [
+            {
+                "id": "job-111",
+                "title": "Neural Data Analyst",
+                "bannerImage": "https://i.ibb.co/Mk3D20nx/Neuro-Netics.jpg",
+                "location": "Remote",
+                "salary": "$90,000 - $120,000",
+                "jobType": "Full-time",
+                "description": "Dive deep into neural datasets to extract actionable insights that guide next-generation brain-computer interface (BCI) systems. You'll work with EEG, fMRI, and behavioral data to shape algorithms for real-time cognition mapping.",
+                "requirements": [
+                    "Advanced Python/R for data analysis",
+                    "Familiarity with neuroimaging tools (e.g., SPM, FSL)",
+                    "Strong background in statistics or neuroscience"
+                ]
+            },
+            {
+                "id": "job-112",
+                "title": "Cognitive Systems Engineer",
+                "bannerImage": "https://i.ibb.co/Mk3D20nx/Neuro-Netics.jpg",
+                "location": "Atlanta, GA",
+                "salary": "$110,000 - $140,000",
+                "jobType": "Contract",
+                "description": "Design and prototype intelligent systems that interpret human cognitive states. You'll collaborate with neuroscientists, designers, and ML engineers to bring emotion-aware technology to life.",
+                "requirements": [
+                    "Experience with embedded systems and edge AI",
+                    "Knowledge of human-computer interaction (HCI)",
+                    "Strong problem-solving and prototyping skills"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "name": "AgroLogic",
+        "logo": "https://i.ibb.co/1GMWw85b/Agro-Logic.jpg",
+        "location": "Des Moines, IA",
+        "website": "https://agrologic.com",
+        "industry": "AgriTech",
+        "jobs": [
+            {
+                "id": "job-121",
+                "title": "Precision Agriculture Analyst",
+                "bannerImage": "https://i.ibb.co/MDZcbmLn/Agro-Logic-Banner.jpg",
+                "location": "Remote",
+                "salary": "$70,000 - $90,000",
+                "jobType": "Full-time",
+                "description": "Use satellite imagery, drone data, and IoT sensor streams to model crop health, soil conditions, and yield forecasts. Help farmers make smarter, data-driven decisions across multiple growing seasons.",
+                "requirements": [
+                    "GIS and remote sensing expertise",
+                    "Experience with Python, QGIS, or ArcGIS",
+                    "Strong analytical and communication skills"
+                ]
+            },
+            {
+                "id": "job-122",
+                "title": "AgTech Software Developer",
+                "bannerImage": "https://i.ibb.co/MDZcbmLn/Agro-Logic-Banner.jpg",
+                "location": "Des Moines, IA",
+                "salary": "$80,000 - $110,000",
+                "jobType": "Full-time",
+                "description": "Develop robust backend and frontend solutions for AgriTech platforms integrating satellite telemetry, sensor analytics, and farmer dashboards. You\u2019ll work on apps that support sustainable farming practices worldwide.",
+                "requirements": [
+                    "Full-stack experience (React, Node.js preferred)",
+                    "Familiarity with geospatial APIs and real-time data pipelines",
+                    "Strong unit testing and code quality practices"
+                ]
+            }
+        ]
+    }
+]
