@@ -22,7 +22,7 @@ const DynamicTitle = () => {
             title = 'Register | Job Hunt Sync';
         } else if (currentPath === '/login') {
             title = 'Login | Job Hunt Sync';
-        } else if (currentPath === '/forgot-password') {
+        } else if (currentPath === '/forget-password') {
             title = 'Forgot Password | Job Hunt Sync';
         } else if (currentPath === `/company-details/${id}`) {
             const company = companies.find(company => company.id === id);
