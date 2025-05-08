@@ -41,7 +41,7 @@ const ForgetPassword = () => {
                         <input type="email" name="email" placeholder="example@email.com" required
                             className="w-full text-sm md:text-base px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"/>
                     </div>
-                    <button type="submit" className="btn btn-primary hover:btn-secondary w-full">Reset Password</button>
+                    <button type="submit" className="btn btn-primary hover:btn-secondary text-white w-full">Reset Password</button>
                 </form>
             </div>
         </section>
