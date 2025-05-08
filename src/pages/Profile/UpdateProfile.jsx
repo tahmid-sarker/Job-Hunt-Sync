@@ -2,7 +2,7 @@ import { use, useState } from 'react';
 import Swal from 'sweetalert2';
 import { AuthContext } from '../../context/AuthContext';
 import { updateProfile } from 'firebase/auth';
-import { auth } from '../../firebase/firebase';
+import { auth } from '../../services/firebase.config';
 
 const Toast = Swal.mixin({
     toast: true,

@@ -3,12 +3,12 @@ import logo from '../../assets/logo.png';
 import { Link, useNavigate } from 'react-router';
 import { AuthContext } from '../../context/AuthContext';
 import { signOut } from 'firebase/auth';
-import { auth } from '../../firebase/firebase';
+import { auth } from '../../services/firebase.config';
 import Swal from 'sweetalert2'
 
 const Header = () => {
     const { user } = use(AuthContext);
-    console.log(user)
+    // console.log(user)
     const [errorMessage, setErrorMessage] = useState("");
     const [dropdownOpen, setDropdownOpen] = useState(false);
     const navigate = useNavigate();

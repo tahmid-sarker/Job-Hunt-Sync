@@ -2,7 +2,7 @@ import { Link, useLocation, useNavigate } from 'react-router';
 import Banner from '../../assets/Form-Banner.svg';
 import { use, useState } from 'react';
 import { AuthContext } from '../../context/AuthContext';
-import { auth } from '../../firebase/firebase';
+import { auth } from '../../services/firebase.config';
 import { sendEmailVerification, updateProfile } from 'firebase/auth';
 import { FcGoogle } from "react-icons/fc";
 import { AiOutlineEye, AiOutlineEyeInvisible } from "react-icons/ai";

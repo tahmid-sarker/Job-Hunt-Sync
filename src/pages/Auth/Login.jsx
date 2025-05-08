@@ -3,7 +3,7 @@ import Banner from '../../assets/Form-Banner.svg';
 import { use, useRef, useState } from 'react';
 import { AuthContext } from '../../context/AuthContext';
 import { sendPasswordResetEmail } from 'firebase/auth';
-import { auth } from '../../firebase/firebase';
+import { auth } from '../../services/firebase.config';
 import { FcGoogle } from "react-icons/fc";
 import Swal from 'sweetalert2';
 
