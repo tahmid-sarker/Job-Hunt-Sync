@@ -92,7 +92,7 @@ const Login = () => {
                 </div>
                 {/* Right Side - Login Form */}
                 <div className='w-full'>
-                    <div className="w-10/12 mx-auto bg-white p-8 rounded-2xl shadow-xl">
+                    <div className="w-11/12 mx-auto bg-white p-8 rounded-2xl shadow-xl">
                         <h1 className="text-2xl md:text-3xl font-bold text-gray-700 mb-2 text-center">Sign In to Your Account</h1>
                         <form onSubmit={handleSubmit} className="space-y-1.5">
                             {/* Email */}
