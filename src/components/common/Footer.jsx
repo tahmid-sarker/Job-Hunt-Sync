@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className='flex flex-col justify-center items-start gap-2'>
                     <div className='flex place-items-center'>
                         <img src={logo} alt="Job Hunt Sync Logo" className="w-10 h-10" />
-                        <h1 className='text-2xl font-bold text-primary'>Job Hunt Sync</h1>
+                        <h1 className='text-xl md:text-2xl font-bold text-primary'>Job Hunt Sync</h1>
                     </div>
                     <div>
                         <p className='text-neutral font-medium'>Sync Your Career with Opportunity</p>

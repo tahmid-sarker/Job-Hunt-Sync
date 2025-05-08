@@ -50,7 +50,7 @@ const Header = () => {
         <header className="py-2 shadow">
             <div className="w-11/12 mx-auto flex justify-between items-center">
                 {/* Logo */}
-                <Link to="/" className="text-2xl font-bold text-primary flex items-center gap-2">
+                <Link to="/" className="text-xl md:text-2xl font-bold text-primary flex items-center gap-2">
                     <img src={logo} alt="Job Hunt Sync Logo" className="w-10 h-10" />
                     Job Hunt Sync
                 </Link>
